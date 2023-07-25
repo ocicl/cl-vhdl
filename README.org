@@ -1,0 +1,10 @@
+* cl-vhdl
+
+Parser of VHDL into lisp-expressions
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/mabragor/cl-vhdl.git   |
+| commit  | 1ce015c  |
+| systems | cl-vhdl |
+|---------+-------------------------------------------|
+
